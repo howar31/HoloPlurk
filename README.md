@@ -3,6 +3,8 @@
 
 -
 
+[佈景主題開發中]
+
 [HoloPlurk 噗浪佈景主題 直接安裝網址](http://www.plurk.com/ "本噗浪佈景官方安裝連結")  
 ![previewimg](http://3.bp.blogspot.com/-0tDqaobQ8nk/UUZWbfWdZ_I/AAAAAAAAJ5Q/lfvkjOw-CHY/s1600/1.nologin.png "佈景實際使用預覽")
 
