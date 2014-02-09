@@ -1,10 +1,10 @@
 /****************************************************************************************/
-/* NeoPlurkCSS3由Howar31製作，								*/
+/* HoloPlurk由Howar31製作，								*/
 /* 以創用CC 姓名標示-非商業性-相同方式分享 3.0 台灣 授權條款釋出。			*/
 /* Design by Howar31	http://about.me/howar31 					*/
 /* License zhTW		http://creativecommons.org/licenses/by-nc-sa/3.0/tw/deed.zh_TW	*/
 /* License en		http://creativecommons.org/licenses/by-nc-sa/3.0/tw/deed.en	*/
-/* Latest Version	https://github.com/howar31/NeoPlurkCSS3				*/
+/* Latest Version	https://github.com/howar31/HoloPlurk				*/
 /****************************************************************************************/
 
 html {
@@ -57,17 +57,11 @@ html, body {
 	min-height: 470px; 
 	background-image: none;
 	background: #EEEEEE; /* Old browsers */
-	background: -moz-linear-gradient(top, #EEEEEE 70%, #AAAAAA 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(70%,#EEEEEE), color-stop(100%,#AAAAAA)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top, #EEEEEE 70%,#AAAAAA 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top, #EEEEEE 70%,#AAAAAA 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top, #EEEEEE 70%,#AAAAAA 100%); /* IE10+ */
-	background: linear-gradient(to bottom, #EEEEEE 70%,#AAAAAA 100%); /* W3C */
-	-moz-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.9);
-	-webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.9);
-	box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.9);
-	border-top: 1px solid black !important;
-	border-bottom: 1px solid black !important;
+	-moz-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.9);
+	-webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.9);
+	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.9);
+	border-top: 1px solid #666666 !important;
+	border-bottom: 1px solid #666666 !important;
 }
 /* 河道 */
 /* 整體框架 */
